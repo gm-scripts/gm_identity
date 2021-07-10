@@ -1,0 +1,18 @@
+{
+  "registration_success": "Dein Charakter wurde erfolgreich registriert",
+  "registration_error": "Es ist ein Fehler aufgetreten, überprüfe deine Eingaben",
+  "menu": {
+    "welcomeText": "Willkommen auf",
+    "serverName": "SampleServer",
+    "labelName": "Vorname:",
+    "labelLastName": "Nachname:",
+    "placeholderName": "Vorname",
+    "placeholderLastName": "Nachname",
+    "labelBirthdate": "Geburtsdatum:",
+    "labelGenderSelector": "Geschlecht: ",
+    "genderMale": "Männlich",
+    "genderFemale": "Weiblich",
+    "genderNonBinary": "Divers",
+    "labelSignUp": "Charakter erstellen"
+  }
+}

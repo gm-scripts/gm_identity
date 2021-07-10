@@ -1,0 +1,18 @@
+{
+  "lang": "en",
+  "appearance": {
+    "scale": 1,
+    "borderRadScale": 1,
+    "colors": {
+      "primary": "#23bf7c",
+      "secondary": "#299465",
+      "error": "#cc3333",
+      "bgPrimary": "#4a4a55",
+      "bgSecondary": "#35353f",
+      "bgTertiary": "#242438",
+      "textPrimary": "#f7f7ff",
+      "textSecondary": "#dfdfef",
+      "textPlaceholder": "#878797"
+    }
+  }
+}

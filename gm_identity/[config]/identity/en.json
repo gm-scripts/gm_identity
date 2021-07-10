@@ -1,0 +1,18 @@
+{
+    "registration_success": "Your character has been successfully registered",
+    "registration_error": "An error has occurred, please check your entries",
+    "menu": {
+        "welcomeText": "Welcome to",
+        "serverName": "SampleServer",
+        "labelName": "Name:",
+        "labelLastName": "Surname:",
+        "placeholderName": "Name",
+        "placeholderLastName": "Surname",
+        "labelBirthdate": "Birthdate:",
+        "labelGenderSelector": "Gender: ",
+        "genderMale": "Male",
+        "genderFemale": "Female",
+        "genderNonBinary": "Non-Binary",
+        "labelSignUp": "Create character"
+    }
+}
